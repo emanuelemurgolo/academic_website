@@ -1,0 +1,26 @@
+---
+title: ""
+output: html_document
+---
+
+<img src="files/teaching.jpg" loading="lazy" width="1004" height="300"/>
+
+##
+
+##
+
+<p style="font-family: Helvetica, sans-serif; font-size:16pt; font-style:Helvetica">
+**Academic Year 2022-2023**
+</p>
+
+## 
+
+## 
+
+<font style="font-family: Helvetica, sans-serif; font-size:12pt">
+
+* **Introducció a la Sociologia, Seminars, 40 hours.** *(Language: Catalan)*
+
+* **Research Methods Applied To Global Studies, Seminars, 18 hours.** *(Language: English)*
+
+</font>
