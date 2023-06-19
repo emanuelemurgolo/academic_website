@@ -1,5 +1,6 @@
 ---
 title: ""
+pagetitle: Research
 output: html_document
 
 ---
