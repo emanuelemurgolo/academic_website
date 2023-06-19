@@ -4,7 +4,7 @@ pagetitle: Teaching
 output: html_document
 ---
 
-<img src="files/teaching.jpg" loading="lazy" width="1004" height="300"/>
+<img src="files/teaching.jpg" loading="lazy" width="1004" height="300" object-fit: none>
 
 ##
 
