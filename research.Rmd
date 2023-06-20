@@ -5,7 +5,7 @@ output: html_document
 
 ---
 
-<img loading="lazy" src= "files/BLM3.jpg" width="1004" height="300" object-fit: none>
+<img loading="lazy" src= "files/BLM3.jpg" style="width: 1004; height: 300; object-fit: cover;">
 <p style="font-family: Helvetica, sans-serif; font-size:10pt; font-style:Helvetica"> _[Wikimedia Commons, Paul Becker](https://commons.wikimedia.org/wiki/File:George_Floyd_Protest,_Columbus_%28May_30th%29_George_Floyd_Protest,_Columbus_%28May_30th%29_IMG_2012_%2849954069361%29.jpg)_ </p>
 
 ##

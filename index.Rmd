@@ -11,8 +11,8 @@ output: html_document
      width="494" 
      height="350"
      alt="Foto"
-     style="float: left; margin-right: 10px;"
-     object-fit: none>
+     style="float: left; margin-right: 10px;
+     object-fit: cover;">
 
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">
 
