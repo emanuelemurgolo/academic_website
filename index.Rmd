@@ -17,16 +17,19 @@ output: html_document
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">
 
 
-I'm a PhD Student at the Department of Political and Social Sciences of [Universitat Pompeu Fabra](https://www.upf.edu/web/phd-political-and-social-sciences/), Barcelona, where I also perform teaching duties as an Adjunct Professor. My research interests include policing, prisons, race, gender, as well as social geography and policymaking more broadly.
+I'm a PhD Student at the Department of Political and Social Sciences of [Universitat Pompeu Fabra](https://www.upf.edu/web/phd-political-and-social-sciences/), Barcelona, where I also perform teaching duties as a Lecturer and Teaching Assistant. My research interests include policing, incarceration, identity, intersectionality, quantitative methods and causal inference.
 
-My doctoral thesis is focused on racially biased policing, and in my first paper I'm studying the effects of marijuana policies on police stops, searches and arrests. Outside of my PhD research, I'm participating in two other projects: one exploring sexist attitudes from an intersectional perspective; the other studying the relationship between segregation, socioeconomic and migration status, and school choice in Italy. 
-As an Adjunct Professor, I teach the seminars of Introduction to Sociology (B.A. in Criminology) and Research Methods Applied to Global Studies (B.A. in Global Studies). I teach in either Catalan or English.
+My doctoral thesis deals with two fundamental research questions: 1) whether and how racially biased policing changes as an effect of either reforms or social movements; 2) if the intersection of race with the spectra of gender, sexuality, and disability worsens police discrimination. See my <a href="research.html">Research</a> page for more details.
+
+
+
+I have also taught BA courses during my doctorate, both as a TA (~140 hours between courses like Introduction to Sociology, Criminality, and Research Methods Applied to Global Studies) and as a lecturer (26 hours in Introduction to Sociology). I have taught in both English and Catalan.
 
 Before this, I obtained a [B.A.](https://corsi.unibo.it/1cycle/PoliticalSocialInternationalSciences) and an [M.A.](https://corsi.unibo.it/2cycle/LocalGlobalDevelopment) in the field of Political and Social Sciences from the University of Bologna, Italy. I also worked as a Research Assistant at the University of Modena and Reggio Emilia, Italy, in the Departments of Economics (2020-2021) and Languages (2022), and in an OECD project on Higher Education in Greece (2020-2021).
 
 Outside of the academic world, I am also involved on a project, [Modena Molti Mondi](https://www.modenamoltimondi.com/), on musical education for disadvantaged high school students in my hometown, Modena (Italy), where I follow the processes of applications for funding as a Project Manager, and of impact and follow-up as well. The project was awarded funding from the Erasmus Agency in 2022 and is currently ongoing.
 
-You can contact me via email, at emanuele.murgolo[at]upf.edu, or via [Twitter](https://twitter.com/emanuelemurgolo).
+You can contact me via email, at emanuele.murgolo[at]upf.edu.
 
 You can download my curriculum vitae <a href="files/CV_Murgolo.pdf#" class="download" title="Download CV as PDF">here.</a>
 

@@ -17,6 +17,10 @@ navbar:
       href: http://github.com/emanuelemurgolo/
     - icon: fa-twitter fa-lg
       href: https://twitter.com/emanuelemurgolo
+    - icon: ai ai-orcid ai-lg
+      href: https://orcid.org/0000-0002-9535-5239
 output:
   html_document:
     theme: cosmo
+    includes:
+      in_header: academicons.html

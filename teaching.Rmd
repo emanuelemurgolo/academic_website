@@ -11,7 +11,7 @@ output: html_document
 ##
 
 <p style="font-family: Helvetica, sans-serif; font-size:16pt; font-style:Helvetica">
-**Academic Year 2022-2023**
+**Teaching Activities**
 </p>
 
 ## 
@@ -20,8 +20,13 @@ output: html_document
 
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">
 
-* **Introducció a la Sociologia, Seminars, 40 hours.** *(Language: Catalan)*
+* **Introduction to Sociology, Lecturer (2024). Total 26 hours.** *(Language: Catalan)*
 
-* **Research Methods Applied To Global Studies, Seminars, 18 hours.** *(Language: English)*
+* **Introduction to Sociology, TA (2022-2024). Total 100 hours.** *(Language: Catalan)*
+
+* **Research Methods Applied To Global Studies, TA (2023). Total 18 hours.** *(Language: English)*
+
+* **Criminality, TA (2023-2024). Total 24 hours.** *(Language: Catalan)*
+
 
 </font>
