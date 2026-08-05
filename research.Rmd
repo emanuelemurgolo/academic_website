@@ -15,7 +15,7 @@ output: html_document
 
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">
 
-#### 3. Murgolo, Emanuele (2026) Policing Queer and Racialized Identities: an Intersectional Approach to Study Police Bias. *Journal of Race, Ethnicity, and Politics.* | [Paper](https://doi.org/10.1017/rep.2026.10097) | [Replication](https://doi.org/10.34810/DATA3433)
+#### 3. **Murgolo, Emanuele** (2026) Policing Queer and Racialized Identities: an Intersectional Approach to Study Police Bias. *Journal of Race, Ethnicity, and Politics.* | [Paper](https://doi.org/10.1017/rep.2026.10097) | [Replication](https://doi.org/10.34810/DATA3433)
 
 <div style="margin-left: 1cm;">
 <details>
@@ -26,8 +26,9 @@ Using records of approximately 3.1 million police stops in the United States, I 
 </div>
 
 ##
+##
 
-#### 2. Murgolo, Emanuele (2026) De-Policing as Reform? Police Tactics after Black Lives Matter’s 2020 Protests. *American Politics Research.* | [Paper](https://doi.org/10.1177/1532673X261443520) | [Replication](https://doi.org/10.34810/data3175)
+#### 2. **Murgolo, Emanuele** (2026) De-Policing as Reform? Police Tactics after Black Lives Matter’s 2020 Protests. *American Politics Research.* | [Paper](https://doi.org/10.1177/1532673X261443520) | [Replication](https://doi.org/10.34810/data3175)
 
 <div style="margin-left: 1cm;">
 <details>
@@ -39,8 +40,9 @@ Using police stop and crime data from Chicago, this paper examines how the 2020 
 </div>
 
 ##
+##
 
-#### 1. Gasperoni, Giancarlo, Debora Mantovani, Emanuele Murgolo, and Federica Santangelo (2025). "Scelte, Flussi, Segregazione. L’istruzione Secondaria Di I Grado a Bologna, Reggio Emilia e Prato". *Scuola Democratica* | [Paper](http://www.rivisteweb.it/doi/10.12828/116759) | [Coverage](https://www.bolognatoday.it/dossier/sociale/iscrizione-scuole-bologna-elementari-medie-migliori-peggiori.html)
+#### 1. Gasperoni, Giancarlo, Debora Mantovani, **Emanuele Murgolo**, and Federica Santangelo (2025). "Scelte, Flussi, Segregazione. L’istruzione Secondaria Di I Grado a Bologna, Reggio Emilia e Prato". *Scuola Democratica* | [Paper](http://www.rivisteweb.it/doi/10.12828/116759) | [Coverage](https://www.bolognatoday.it/dossier/sociale/iscrizione-scuole-bologna-elementari-medie-migliori-peggiori.html)
 
 
 <div style="margin-left: 1cm;">
@@ -58,7 +60,7 @@ The article explores whether the allocation of pupils in secondary schools in th
 
 <p style="font-family: Helvetica, sans-serif; font-size:16pt; font-style:Helvetica"> **Works Under Review** </p>
 
-#### Murgolo, Emanuele. Who is Turning Against LGBT Rights? Evidence from a Longitudinal Study in Catalonia. *Revise and Resubmit*
+#### **Murgolo, Emanuele**. Who is Turning Against LGBT Rights? Evidence from a Longitudinal Study in Catalonia. *Revise and Resubmit*
 
 <div style="margin-left: 1cm;">
 <details>
@@ -70,8 +72,9 @@ Using two-wave panel data from Catalonia, this article examines the evolution of
 </div>
 
 ##
+##
 
-#### Murgolo, Emanuele and Toni Rodon. Marijuana Policies and Racially Biased Policing: Law Enforcement Resistance Against Reform?. *Under Review*
+#### **Murgolo, Emanuele** and Toni Rodon. Marijuana Policies and Racially Biased Policing: Law Enforcement Resistance Against Reform? *Under Review*
 
 <div style="margin-left: 1cm;">
 <details>
@@ -82,7 +85,10 @@ Using approximately 21 million traffic and pedestrian stops, this article examin
 </details>
 </div>
 
-#### Murgolo, Emanuele, Marina Muñoz Puig and Toni Rodon. The Quiet Pushback: A List Experiment on Opposition to LGBTI+ Inclusive Policies. *Under Review*
+##
+##
+
+#### **Murgolo, Emanuele**, Marina Muñoz Puig and Toni Rodon. The Quiet Pushback: A List Experiment on Opposition to LGBTI+ Inclusive Policies. *Under Review*
 
 <div style="margin-left: 1cm;">
 <details>
@@ -99,7 +105,7 @@ Using a list experiment in Catalonia, we examine attitudes toward LGBTI+-inclusi
 
 <p style="font-family: Helvetica, sans-serif; font-size:16pt; font-style:Helvetica"> **Working Papers** </p>
 
-#### Murgolo, Emanuele, and Gerard Torrats-Espinosa. From Policing to Education? Public Spending Reallocation and Minority Student Outcomes in California.
+#### **Murgolo, Emanuele**, and Gerard Torrats-Espinosa. From Policing to Education? Public Spending Reallocation and Minority Student Outcomes in California.
 
 <div style="margin-left: 1cm;">
 <details>
@@ -111,8 +117,9 @@ This article examines the educational effects of "defund the police" policies th
 </div>
 
 ##
+##
 
-#### Christiani, Leah and Emanuele Murgolo. Examining Police Targeting by Disability Status, Mental Health Status, and Racial Identity.
+#### Christiani, Leah and **Emanuele Murgolo**. Examining Police Targeting by Disability Status, Mental Health Status, and Racial Identity.
 
 <div style="margin-left: 1cm;">
 <details>
