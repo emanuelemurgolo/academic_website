@@ -20,13 +20,14 @@ output: html_document
 
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">
 
+* **Mapping, Big Data & Society (2026). Total 27 hours.** *(Language: Catalan)*
+
 * **Introduction to Sociology, Lecturer (2024). Total 26 hours.** *(Language: Catalan)*
 
 * **Introduction to Sociology, TA (2022-2024). Total 100 hours.** *(Language: Catalan)*
 
 * **Research Methods Applied To Global Studies, TA (2023). Total 18 hours.** *(Language: English)*
 
-* **Criminality, TA (2023-2024). Total 24 hours.** *(Language: Catalan)*
-
+* **Criminality, TA (2024-2026). Total 36 hours.** *(Language: Catalan)*
 
 </font>

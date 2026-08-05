@@ -15,8 +15,8 @@ navbar:
       href: mailto:<emanuele.murgolo@upf.edu>
     - icon: fa-github fa-lg
       href: http://github.com/emanuelemurgolo/
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/emanuelemurgolo
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=U2_IYrQAAAAJ
     - icon: ai ai-orcid ai-lg
       href: https://orcid.org/0000-0002-9535-5239
 output:
