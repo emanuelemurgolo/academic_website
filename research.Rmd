@@ -15,7 +15,20 @@ output: html_document
 
 <font style="font-family: Helvetica, sans-serif; font-size:12pt">
 
-#### 3. **Murgolo, Emanuele** (2026) Policing Queer and Racialized Identities: an Intersectional Approach to Study Police Bias. *Journal of Race, Ethnicity, and Politics.* | [Publication](https://doi.org/10.1017/rep.2026.10097) | <a href="files/paper_LGBT_policing.pdf#" class="download" title="Download Article as PDF">PDF</a> | [Replication](https://doi.org/10.34810/DATA3433)
+#### 3. **Murgolo, Emanuele** (2026) Policing Queer and Racialized Identities: an Intersectional Approach to Study Police Bias. *Journal of Race, Ethnicity, and Politics.*
+<div class="pub-links">
+  <a href="https://doi.org/10.1017/rep.2026.10097" class="pub-btn" target="_blank">
+    <i class="fas fa-link"></i> Publication
+  </a>
+
+  <a href="paper_LGBT_policing.pdf" class="pub-btn" target="_blank">
+    <i class="fas fa-file-pdf"></i> PDF
+  </a>
+
+  <a href="https://doi.org/10.34810/DATA3433" class="pub-btn" target="_blank">
+    <i class="fas fa-database"></i> Replication
+  </a>
+</div>
 
 <div style="margin-left: 1cm;">
 <details>
@@ -28,7 +41,20 @@ Using records of approximately 3.1 million police stops in the United States, I 
 ##
 ##
 
-#### 2. **Murgolo, Emanuele** (2026) De-Policing as Reform? Police Tactics after Black Lives Matter’s 2020 Protests. *American Politics Research.* | [Publication](https://doi.org/10.1177/1532673X261443520) | <a href="files/paper_depolicing.pdf#" class="download" title="Download Article as PDF">PDF</a> | [Replication](https://doi.org/10.34810/data3175)
+#### 2. **Murgolo, Emanuele** (2026) De-Policing as Reform? Police Tactics after Black Lives Matter’s 2020 Protests. *American Politics Research.* 
+<div class="pub-links">
+  <a href="https://doi.org/10.1177/1532673X261443520" class="pub-btn" target="_blank">
+    <i class="fas fa-link"></i> Publication
+  </a>
+
+  <a href="paper_depolicing.pdf" class="pub-btn" target="_blank">
+    <i class="fas fa-file-pdf"></i> PDF
+  </a>
+
+  <a href="https://doi.org/10.34810/data3175" class="pub-btn" target="_blank">
+    <i class="fas fa-database"></i> Replication
+  </a>
+</div>
 
 <div style="margin-left: 1cm;">
 <details>
@@ -42,7 +68,16 @@ Using police stop and crime data from Chicago, this paper examines how the 2020 
 ##
 ##
 
-#### 1. Gasperoni, Giancarlo, Debora Mantovani, **Emanuele Murgolo**, and Federica Santangelo (2025). "Scelte, Flussi, Segregazione. L’istruzione Secondaria Di I Grado a Bologna, Reggio Emilia e Prato". *Scuola Democratica* | [Publication](http://www.rivisteweb.it/doi/10.12828/116759) | [Coverage](https://www.bolognatoday.it/dossier/sociale/iscrizione-scuole-bologna-elementari-medie-migliori-peggiori.html)
+#### 1. Gasperoni, Giancarlo, Debora Mantovani, **Emanuele Murgolo**, and Federica Santangelo (2025). "Scelte, Flussi, Segregazione. L’istruzione Secondaria Di I Grado a Bologna, Reggio Emilia e Prato". *Scuola Democratica*
+<div class="pub-links">
+  <a href="http://www.rivisteweb.it/doi/10.12828/116759" class="pub-btn" target="_blank">
+    <i class="fas fa-link"></i> Publication
+  </a>
+
+  <a href="https://www.bolognatoday.it/dossier/sociale/iscrizione-scuole-bologna-elementari-medie-migliori-peggiori.html" class="pub-btn" target="_blank">
+  <i class="fas fa-newspaper"></i> Coverage
+  </a>
+</div>
 
 
 <div style="margin-left: 1cm;">
