@@ -20,11 +20,9 @@ output: html_document
   <a href="https://doi.org/10.1017/rep.2026.10097" class="pub-btn" target="_blank">
     <i class="fas fa-link"></i> Publication
   </a>
-
   <a href="paper_LGBT_policing.pdf" class="pub-btn" target="_blank">
     <i class="fas fa-file-pdf"></i> PDF
   </a>
-
   <a href="https://doi.org/10.34810/DATA3433" class="pub-btn" target="_blank">
     <i class="fas fa-database"></i> Replication
   </a>
@@ -46,11 +44,9 @@ Using records of approximately 3.1 million police stops in the United States, I 
   <a href="https://doi.org/10.1177/1532673X261443520" class="pub-btn" target="_blank">
     <i class="fas fa-link"></i> Publication
   </a>
-
   <a href="paper_depolicing.pdf" class="pub-btn" target="_blank">
     <i class="fas fa-file-pdf"></i> PDF
   </a>
-
   <a href="https://doi.org/10.34810/data3175" class="pub-btn" target="_blank">
     <i class="fas fa-database"></i> Replication
   </a>
@@ -73,7 +69,6 @@ Using police stop and crime data from Chicago, this paper examines how the 2020 
   <a href="http://www.rivisteweb.it/doi/10.12828/116759" class="pub-btn" target="_blank">
     <i class="fas fa-link"></i> Publication
   </a>
-
   <a href="https://www.bolognatoday.it/dossier/sociale/iscrizione-scuole-bologna-elementari-medie-migliori-peggiori.html" class="pub-btn" target="_blank">
   <i class="fas fa-newspaper"></i> Coverage
   </a>
