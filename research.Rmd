@@ -20,7 +20,7 @@ output: html_document
   <a href="https://doi.org/10.1017/rep.2026.10097" class="pub-btn" target="_blank">
     <i class="fas fa-link"></i> Publication
   </a>
-  <a href="paper_LGBT_policing.pdf" class="pub-btn" target="_blank">
+  <a href="files/paper_LGBT_policing.pdf" class="pub-btn" target="_blank">
     <i class="fas fa-file-pdf"></i> PDF
   </a>
   <a href="https://doi.org/10.34810/DATA3433" class="pub-btn" target="_blank">
@@ -44,7 +44,7 @@ Using records of approximately 3.1 million police stops in the United States, I 
   <a href="https://doi.org/10.1177/1532673X261443520" class="pub-btn" target="_blank">
     <i class="fas fa-link"></i> Publication
   </a>
-  <a href="paper_depolicing.pdf" class="pub-btn" target="_blank">
+  <a href="files/paper_depolicing.pdf" class="pub-btn" target="_blank">
     <i class="fas fa-file-pdf"></i> PDF
   </a>
   <a href="https://doi.org/10.34810/data3175" class="pub-btn" target="_blank">
